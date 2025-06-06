@@ -1,0 +1,11 @@
+amazonwebservices.amazon-q-vscode
+canadaduane.notes
+docker.docker
+editorconfig.editorconfig
+esbenp.prettier-vscode
+hashicorp.terraform
+ms-azuretools.vscode-containers
+ms-azuretools.vscode-docker
+ms-vscode.powershell
+ms-vscode.sublime-keybindings
+tim-koehler.helm-intellisense
