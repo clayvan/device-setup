@@ -84,8 +84,10 @@ I use a Brewfile to manage all my Homebrew packages. This makes it easy to insta
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # Install all packages from Brewfile
-brew bundle
+brew bundle --no-lock
 ```
+
+Note: The `--no-lock` flag prevents creating a Brewfile.lock.json file.
 
 ## VS Code Configuration
 

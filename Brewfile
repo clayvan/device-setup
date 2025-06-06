@@ -1,8 +1,3 @@
-# Taps
-tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
-
 # Kubernetes tools
 brew "kubernetes-cli"
 brew "helm"
